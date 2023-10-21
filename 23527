@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>HTML and CSS Static Websites</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <div class="top-bar">
+      <img class="logo" src="logo.jpg" alt="This is site logo" width="150px" height="150px">
+
+      <div class="us">United States</div>
+      <div class="ap">Antarctic Program</div>
+   </div>
+
+   <div class="nav">
+      <div class="home"><a href="home.html">Home</a></div>
+      <div class="contact"><a href="contact.html">Contact</a></div>
+      <div class="station"><a href="time.html">Times</a></div>
+      <div class="link"><a href="quick.html">Quick Links</a></div>
+   </div>
+
+   <div class="sh-top"></div>
+
+   <div class="search-box">
+      <input type="search" id="search-input" placeholder="Search...." name="search">
+      <button id="search-button">Advanced Search</button>
+   </div>
+   <div class="nsf">
+      <img src="nsf.jpg" width="90px" height="90px" alt="This is NSF logo">
+   </div>
+   <img src="cover.jpg" width="980px" height="500px" alt="This is the cover or big portion of the image in the design">
+   <div class="usap">
+      <img src="usap.png" class="usap-img" width="120px" alt="This is USAP logo">
+      <h2 id="f-u">FUTURE USAP <br>the latest information  on the USAP master plans  and  their implementation <br><br>
+
+         <div class="dark">
+            <div class="fi">
+               <a href="">About the USAP</a>
+            </div>
+         </div>
+         <div class="se">
+            <a href="">About the Program</a>
+         </div>
+
+         <div class="th">
+            <a href="">About USAP Participants</a>
+         </div>
+
+         <div class="fo">
+            <a href="">Environmental Policy and Compliance</a>
+         </div>
+
+         <div class="fiv">
+            <a href="">FAQ's</a>
+         </div>
+
+         <div class="si">
+            <a href="">Science Discoveries</a>
+         </div>
+
+         <div class="sev">
+            <a href="">News Announcements</a>
+         </div>
+
+         <div class="ei">
+            <a href="">Jobs and Opportunities</a>
+         </div>
+
+         <div class="ni">
+            <a href="">Media Enquiries</a>
+         </div>
+         <div class="dark">
+            <div class="te">
+               <a href="">About Antarctica</a>
+            </div>
+
+            <div class="el">
+               <a href="">Grantee Support</a>
+            </div>
+
+            <div class="thi">
+               <a href="">Program Operations</a>
+            </div>
+            <div class="fou">
+               <a href="">USAP Science</a>
+            </div><br>
+
+            <div id="rc">
+               <a href="">RECENT TWEETS</a>
+            </div>
+
+            <div id="tw">
+               <a href="">Tweets from "@NSF_OPP"</a>
+            </div><br>
+
+            <div id="nsf">
+               <a href="">NSF SOCIAL MEDIA</a>
+            </div><br>
+
+            <div class="social">
+
+               <a href="">
+                  <img src="fac.jpg" alt="">
+               </a>
+               <a href="">
+                  <img src="twe.jpg" alt="">
+               </a>
+               <a href="">
+                  <img src="in.jpg" alt="">
+               </a><br>
+               <a href="">
+                  <img src="pin.jpg" alt="">
+               </a>
+               <a href="">
+                  <img src="you.jpg" alt="">
+               </a>
+               <a href="">
+                  <img src="fki.jpg" alt="">
+               </a><br>
+               <a href="">
+                  <img src="t.jpg" alt="">
+               </a>
+               <a href="">
+                  <img src="vim.jpg" alt="">
+               </a>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="welcome-top-one"><b id="wl">Welcome to the United States Antarctic Program Portal</b></div>
+   <div class="welcome-top-two"></div>
+   <div class="welcome">
+      <img src="camp.jpg" id="camp" width="630px" height="250px" alt="This is Antarctic Camp">
+      <div id="top-camp">
+         <div class="tips"> NTF Get Tips for Antarctica for how to stay warm during the bomb cyclone</div>
+         <div class="news"><b id="news">News</b>| Friday January 5, 2018</div>
+         <div class="bomb">The "Bomb cyclone" has hit the southern U.S
+            causing flight cancellations and power outages on January 5, Keri Nelson at NSF's Palmer Station Antarctica discussed with All Things Considered host Ari Shapiro
+            <div class="cont">Continue reading...</div>
+         </div>
+      </div>
+      <div class="left">
+         <div class="webcam">
+            USAP Station Webcams
+         </div>
+         <div class="live">
+            <a href="">Live Images from Antarctica</a></div>
+         <img src="live.jpg" class="img-live" width="390px" alt="This is live image from Antarctica" height="240px">
+         <div class="live-caption">
+            McMurdo Station- Arrival Heights camera
+         </div>
+         <div class="p-a">
+            Programme Announcement
+         </div>
+         <div class="mc">MOST RECENT</div>
+         <div class="img-31-2018"><img src="img-31-2018.jpg" alt="This is Jan 31, 2018 image"></div>
+         <div class="office"><span id="policy"><a href="">Policy Against Harassment Affirmed</a></span><br>
+            the Office of Polar Programs (OPP), which <br> manages the U.S. Antarctic Program, has issued a policy statement that affirms that the program "is committed to providing a safe <br> and respectful environment free of any <br> form of harassment."</div>
+         <hr>
+
+         <div class="img-24-2018"><img src="img-24-2018.jpg" alt="This is January 24, 2018 image" width="120px" height="130px" align="left"></div>
+         <span class="logic"><a href="">MacDonald joins Antarctic Infrastructure <br>and Logistics Section</a></span>
+         <div class="brian">Brian MacDonald has joined OPP's Antarctic <br>Infrastructure and Logistics (AIL) Section as <br> Capital Planning Manager. MacDonald will work <br> Jan 24, 2018, closely with AIL experts to <br> implement a long-range capital plan to ensure the nation's <br> Antarctic stations continue to support <br> world-leading science well into the future.</div>
+         <hr>
+         <div class="img-19-2017"><img src="img-19-2017.jpg" alt="This is December 2017 image" height="130px" width="120px"></div>
+         <span class="nef"><a href="">NEF seeks Program Director, Arctic Systems Sciences Program Applications Due January 29</a></span>
+         <div class="seeking">The NSF is seeking a qualified candidate to fill the position of Director of the Arctic Sciences Section (ARCC) Program in the Office of Polar Programs (OPP), Directorate for Geosciences (GEO) in Alexandria, VA. The Office of Polar Programs is responsible for planning, funding, and implementing scientific research programs in both the Arctic and Antarctic regions.</div>
+         <hr>
+         <button id="announcement">ALL ANNOUNCEMENTS</button> <button id="subscribe">SUBSCRIBE</button>
+      </div>
+
+      <div class="right">
+         <div class "media">
+            Media
+         </div>
+         <div class="photo">
+            <a href="">USAP PHOTO LIBRARY</a>
+         </div>
+         <div class="current">
+            <img src="current.jpg" alt="These are cold-blooded animals">
+         </div>
+         <div class="view">
+            View current and historical photos profiling science, scenery, wildlife and more at <br> the USAP Photo Library
+         </div>
+         <hr>
+         THE ANTARCTIC SUN
+         <div class="evening">
+            <img src="evening.jpg" alt="This is the Antarctica evening sky">
+            <div class="evening-caption">The Antarctic Sun is the official source for news of the United States Antarctic Program and US Antarctic Stations</div>
+         </div>
+         <div class="fts">Features</div>
+         <div class="sr">SPECIAL REPORT</div>
+         <div class=foundation-img><img src="foundation.jpg" alt="This is a foundation image"></div>
+         <div class="foundation-look">Take a look at the National Science Foundation's plan for the future of science and logistics in Antarctica
+            <ul>
+               <li>
+                  <a href="">McMurdo Station Master Plan</a>
+               </li>
+               <li>
+                  <a href="">(updated Jan 29, 2016)</a>
+               </li>
+               <li>
+                  <a href="">Palmer Station Master Plan</a>
+               </li>
+               <li>
+                  <a href="">(new Feb 2, 2016) Mare and Better Science in</a>
+               </li>
+               <li>
+                  <a href="">NSF Blue Ribbon Panel</a>
+               </li>
+            </ul>
+         </div>
+         <hr>
+         <div class="f-a">FEATURED ARTICLES</div>
+         <div class="f-a"><img src="f-a.jpg" alt="These are music singing pictures"></div>
+         <div class="vd"><a href="">Video International Jazz Day is celebrated at South Pole station</a></div>
+      </div>
+   </div>
+   <div class="purple">
+      <img src="purple.jpg" alt="This is the site we are located">
+   </div>
+   <div class="blue">
+      <img id="usap-gov" src="nsf.jpg" alt="This is the NSF logo">
+      <img id="site-usap" src="usap-site.jpg" alt="Here is the site for USAP">
+      <div id="con-u">Contact Us<hr></div>
+      <div id="Ncf">National Science Foundation Office of Polar Programs Geosciences Directorate 2415 Eisenhower Avenue Suite W710  Alexandria, VA 22314</div>
+   </div>
+   <div class="sited">
+      <span class="STECH">Site Information <hr></span>
+      <div class="terms">Policies and Important Links
+         Web Accessibility Publication Schedule USAP Frequently
+         Asked Questions Link to the USAP Portal Help and Support Feedback Form
+      </div>
+      <div class="important-link">
+         Important Links <hr>
+         <div class="main">Search the USAP Portal USAP Program Announcements News About the USAP RSS Feeds Information for Proposers Calendars and Schedules
+         </div>
+      </div>
+   </div>
+   <div class="last">
+      <span id="curator"><center>Curator: Webmaster Antarctic Support Contract (NSF OCE Omela: Pale Simm, Office of Polar Programs)</center></span>
+   </div>
+
+</body>
+</html>
